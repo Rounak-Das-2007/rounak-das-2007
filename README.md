@@ -106,7 +106,7 @@ This GitHub profile serves as a transparent record of my learning journey, techn
 All projects are original work from academic study, self-learning, and experimentation.
 
 ---
-
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -124,6 +124,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Rounak-Das-2
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rounak-Das-2007&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
+-->
 
 ---
 
