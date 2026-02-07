@@ -134,7 +134,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rounak-Das-2
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rounak--Das--2007-181717?style=for-the-badge&logo=github)](https://github.com/Rounak-Das-2007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rounak_Das-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rounak-d-380827359/)
-[![Email](https://img.shields.io/badge/Email-iamrounak2007-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamrounak2007@gmail.com)
+[![Email](https://img.shields.io/badge/Email-iamrounak2007-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamrounak2020@gmail.com)
 
 </div>
 
