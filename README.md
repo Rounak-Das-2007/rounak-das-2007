@@ -1,7 +1,7 @@
 <a href="https://github.com/Rounak-Das-2007">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rounak-Das-2007/Rounak-Das-2007/main/dark_mode.svg">
-    <img alt="Rounak Das's GitHub Profile README" src="https://raw.githubusercontent.com/Rounak-Das-2007/Rounak-Das-2007/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rounak-Das-2007/Rounak-Das-2007/main/dark_mode.svg?v=2">
+    <img alt="Rounak Das's GitHub Profile README" src="https://raw.githubusercontent.com/Rounak-Das-2007/Rounak-Das-2007/main/light_mode.svg?v=2">
   </picture>
 </a>
 
